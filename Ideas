@@ -1,0 +1,14 @@
+realtime strategy of risk. 
+
+Simple rock paper scissor formate, infantry, tank, and artillary.
+
+built off Unity.
+
+Build units from city-cities can be captured be defeating city hp .
+
+Cities grouped together will form a nation ie 7 cities scattered around france when united boost income and unlock flag.
+
+Burnable terrain idea-trees can form forests as choke point but can be indvidually targetted down to create paths aside
+from mountain chokepoints(mountains should be indistructable).
+
+Simple 3 unit format should allow custom import of models ie switch from napoleon to modern day with simple package.
